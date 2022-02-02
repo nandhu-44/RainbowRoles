@@ -1,0 +1,1 @@
+module.exports.RainbowRole = require("./src/rainbowrole")
