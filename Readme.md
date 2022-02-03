@@ -34,7 +34,7 @@ client.login("Discord bot token")
 <br>
 <br>
 
-#### __*_Options_*__ 
+#### __Options__ 
 
 ```js
 {
