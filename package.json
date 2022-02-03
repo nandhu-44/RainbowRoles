@@ -1,6 +1,6 @@
 {
   "name": "djs-rainbow",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A package to use rainbow roles in discord.js without abusing api",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/n694420/RainbowRoles#readme",
   "dependencies": {
-    "discord.js": "^13.6.0",
-    "typescript": "^4.5.5"
+    "discord.js": "^13.6.0"
   }
 }
